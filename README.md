@@ -38,13 +38,13 @@ The goal of application security is not to produce perfectly bug-free software. 
 
 | Time | Topic | Wiki page |
 |---:|---|---|
-| 0:00 | Introduction to application security | [Application Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Application-Security.md) |
-| 1:01 | Why vulnerabilities and cost matter | [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps.md) |
-| 2:20 | Traditional SDLC vs DevOps vs DevSecOps | [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps.md) |
-| 5:41 | Secure coding practices | [Secure Coding Practices](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Secure-Coding-Practices.md) |
-| 10:45 | Vulnerability testing with SAST and DAST | [Vulnerability Testing](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Vulnerability-Testing.md) |
-| 12:57 | AI/chatbot code generation and debugging risks | [AI & Chatbot Code Risks](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/AI-Chatbot-Code-Risks.md) |
-| 15:30 | Summary and next topic: data security | [References](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/References.md) |
+| 0:00 | Introduction to application security | [Application Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Application-Security) |
+| 1:01 | Why vulnerabilities and cost matter | [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps) |
+| 2:20 | Traditional SDLC vs DevOps vs DevSecOps | [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps) |
+| 5:41 | Secure coding practices | [Secure Coding Practices](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Secure-Coding-Practices) |
+| 10:45 | Vulnerability testing with SAST and DAST | [Vulnerability Testing](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Vulnerability-Testing) |
+| 12:57 | AI/chatbot code generation and debugging risks | [AI & Chatbot Code Risks](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/AI-Chatbot-Code-Risks) |
+| 15:30 | Summary and next topic: data security | [References](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/References) |
 
 ---
 
@@ -52,12 +52,12 @@ The goal of application security is not to produce perfectly bug-free software. 
 
 | Page | What it covers |
 |---|---|
-| [Application Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Application-Security.md) | High-level overview and key concepts |
-| [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps.md) | Software development lifecycle, traditional models, DevOps, and DevSecOps |
-| [Secure Coding Practices](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Secure-Coding-Practices.md) | Input validation, trusted libraries, OWASP, standard architectures, and SBOM |
-| [Vulnerability Testing](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Vulnerability-Testing.md) | SAST, DAST, and how testing fits into the development lifecycle |
-| [AI & Chatbot Code Risks](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/AI-Chatbot-Code-Risks.md) | Using AI to generate or debug code, plus related security risks |
-| [References](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/References.md) | Important resources and further learning |
+| [Application Security](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Application-Security) | High-level overview and key concepts |
+| [SDLC & DevSecOps](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/SDLC-and-DevSecOps) | Software development lifecycle, traditional models, DevOps, and DevSecOps |
+| [Secure Coding Practices](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Secure-Coding-Practices) | Input validation, trusted libraries, OWASP, standard architectures, and SBOM |
+| [Vulnerability Testing](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/Vulnerability-Testing) | SAST, DAST, and how testing fits into the development lifecycle |
+| [AI & Chatbot Code Risks](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/AI-Chatbot-Code-Risks) | Using AI to generate or debug code, plus related security risks |
+| [References](https://github.com/alishahbaz/Cybersecurity-Architecture-Application-Security/wiki/References) | Important resources and further learning |
 
 ---
 
