@@ -1,4 +1,4 @@
-# 07 Application Security
+# 07 Cybersecurity - Application Security
 
 Welcome to the **Application Security** section of the Cyber Security Architecture Series.
 
